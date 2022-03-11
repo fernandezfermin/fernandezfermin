@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**fernandezfermin/fernandezfermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandezfermin/)](https://www.linkedin.com/in/fernandezfermin/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferminfernandez97@gmail.com)](mailto:ferminfernandez97@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a backend developer with 3+ years of experience. I have experience in designing and implementing web applications and services. 
+
+Some of my interests are: NodeJS Backend development, Javascript (ES6+), RESTful APIs, Microservices, UI/UX Design. 
+
+Keen to learn new technologies. I want to make things that make a difference.
+
+More info about me in https://www.fernandezfermin.com
+
+- :Man Technologist: I’m currently working as Software Developer at [Social Empire LLC](https://www.linkedin.com/company/social-empire-llc/)      
+- :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
