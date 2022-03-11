@@ -12,8 +12,8 @@ Keen to learn new technologies. I want to make things that make a difference.
 
 More info about me in https://www.fernandezfermin.com
 
-- :Man Technologist: I’m currently working as Software Developer at [Social Empire LLC](https://www.linkedin.com/company/social-empire-llc/)      
-- :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+- 👨‍💻: I’m currently working as Software Developer at [Social Empire LLC](https://www.linkedin.com/company/social-empire-llc/)      
+- 💻: Techs: <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
