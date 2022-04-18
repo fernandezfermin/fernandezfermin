@@ -6,7 +6,7 @@
 
 I’m a backend developer with 3+ years of experience. I have experience in designing and implementing web applications and services. 
 
-Some of my interests are: NodeJS Backend development, Javascript (ES6+), RESTful APIs, Microservices, UI/UX Design. 
+Some of my interests are: NodeJS Backend development, Javascript (ES6+), RESTful APIs, Microservices, UI Design. 
 
 Keen to learn new technologies. I want to make things that make a difference.
 
